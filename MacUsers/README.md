@@ -118,7 +118,7 @@ I suggest creating a dedicated folder for all your coding projects. I have a fil
 * Create a file inside your project folder called `app.py`.
 
 * Paste this code into that file
-```
+```python
 from flask import Flask
 
 app = Flask(__name__)
