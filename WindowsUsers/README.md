@@ -21,15 +21,7 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 Please use the official Microsoft documentation to guide the install process for WSL. Microsoft may customize this page based on your OS version, so once again, make sure you are up-to-date.
 
-You may notice that there are two options to install:
-* Simplified Install
-* Manual Install
-
-If you own your computer and are comfortable installing preview builds, then feel free to go ahead and try the simplified install. (It will require you to sign up for the Windows Insiders Program). No payments required, this is like a beta tester program. Only try this out if you are admin for your computer and are OK with pre-release builds of Windows.
-
-Otherwise, I recommend just going through the manual install instructions.
-
-For manual install, proceed from Steps 1-6. 
+You only need to follow the instructions to install. This may or may not require you to restart your computer. By default, it should install Ubuntu for you, but if not, then proceed to the next section where you change the default version to Ubuntu.
 
 **Make sure you install Ubuntu.**
 
